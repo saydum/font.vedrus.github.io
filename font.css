@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'VedRus';
+    src: url(fonts/Calligraphr-Regular.ttf) format('ttf'), url(fonts/Calligraphr-Regular.otf) format('woff');
+    font-weight: 400;
+  }
+  
+  @font-face {
+    font-family: 'VedRus';
+    src: url(fonts/Calligraphr-Regular.ttf) format('ttf'), url(fonts/Calligraphr-Regular.otf) format('woff');
+    font-style: italic;
+    font-weight: 400;
+  }
+  
+  @font-face {
+    font-family: 'VedRus';
+    src: url(fonts/Calligraphr-Regular.ttf) format('ttf'), url(fonts/Calligraphr-Regular.otf) format('woff');
+    font-weight: 700;
+  }
+* {
+  font-family: 'VedRus';
+  word-spacing: 9px;
+  /* font-size: 18px; */
+}

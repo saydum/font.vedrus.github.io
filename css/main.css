@@ -1,0 +1,40 @@
+.nav_txt_center {
+    text-align: center;
+}
+.pdt_9 {
+    padding-top: 9px;
+}
+.row_padding {
+    padding-top: 40px;
+}
+
+.card_img {
+    float: right;
+
+}
+.card_txt {
+    font-size: 18px;
+    float: left;
+    padding-top: 11px;
+    word-spacing: 9px;
+}
+.video {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding: 20px;
+}
+.footer {
+    padding: auto;
+    height: 40px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 14px;
+    background-color: #f8f9fa;
+}
+.footer p {
+    margin-top: 5px;
+}
